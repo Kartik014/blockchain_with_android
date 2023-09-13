@@ -8,7 +8,7 @@ Blockchain Platform: Ethereum
 
 Smart Contract Language: Solidity
 
-Android Development Language: Kotlin
+Android Development Language: Kotlin, React Native
 
 # Project Description
 Our project aims to demonstrate the integration of blockchain and Android by creating a simple Android application that interacts with a smart contract deployed on the Ethereum blockchain. This application allows users to store and retrieve data on the blockchain through two main functions:
